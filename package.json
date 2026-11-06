@@ -1,0 +1,26 @@
+{
+  "name": "dasboar-remediada-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaqKent/Dasboar-remediada-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaqKent/Dasboar-remediada-BE/issues"
+  },
+  "homepage": "https://github.com/JaqKent/Dasboar-remediada-BE#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.0"
+  }
+}
